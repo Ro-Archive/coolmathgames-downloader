@@ -8,14 +8,14 @@
     <style>
         body {
             font-family: 'Londrina Outline', monospace;
-            background-color: #333; /* Dark background color */
-            color: #ccc; /* Light gray text color */
+            background-color: #333; 
+            color: #ccc; 
             text-align: center;
             margin: 0;
         }
 
         #container {
-            background-color: #444; /* Slightly lighter gray background */
+            background-color: #444; 
             border-radius: 10px;
             padding: 20px;
             margin: 20px;
@@ -25,26 +25,26 @@
         }
 
         h1 {
-            color: #fff; /* White text color */
+            color: #fff; 
                         font-family: 'Londrina Outline', monospace;
 
         }
 
         input[type="text"] {
             padding: 10px;
-            border: 1px solid #555; /* Dark gray border */
+            border: 1px solid #555; 
             border-radius: 5px;
             width: 300px;
             font-size: 16px;
-            color: #333; /* Dark text color inside input */
-            background-color: #555; /* Dark gray input background */
+            color: #333; 
+            background-color: #555; 
                         font-family: 'Londrina Outline', monospace;
 
         }
 
         button {
             padding: 10px 20px;
-            background-color: #777; /* Slightly lighter gray button */
+            background-color: #777; 
             color: #ccc;
             border: none;
             border-radius: 5px;
@@ -55,7 +55,7 @@
         }
 
         button:hover {
-            background-color: #666; /* Slightly darker gray on hover */
+            background-color: #666; 
                         font-family: 'Londrina Outline', monospace;
 
         }
@@ -68,37 +68,37 @@
 
         #loading {
             display: none;
-            color: #ff6600; /* Coolmath Games orange for loading text */
+            color: #ff6600; 
                         font-family: 'Londrina Outline', monospace;
 
         }
 
         #update-log {
-            background-color: #555; /* Dark gray background for the update-log section */
+            background-color: #555; 
             padding: 20px;
             border-radius: 5px;
             text-align: left;
-            color: #fff; /* White text color for update log */
+            color: #fff; 
                         font-family: 'Londrina Outline', monospace;
 
         }
 
         #how-to-download {
-            background-color: #555; /* Dark gray background for how-to-download section */
+            background-color: #555; 
             padding: 20px;
             border-radius: 5px;
             text-align: left;
                         font-family: 'Londrina Outline', monospace;
 
-            color: #fff; /* White text color for how-to-download section */
+            color: #fff; 
         }
 
         #faq {
-            background-color: #555; /* Dark gray background for FAQ section */
+            background-color: #555; 
             padding: 20px;
             border-radius: 5px;
             text-align: left;
-            color: #fff; /* White text color for FAQ section */
+            color: #fff; 
                         font-family: 'Londrina Outline', monospace;
 
         }
